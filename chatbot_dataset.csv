@@ -1,0 +1,801 @@
+Query,Intent
+Hi,Greeting
+Hello,Greeting
+Hey there,Greeting
+Good morning,Greeting
+Good afternoon,Greeting
+Good evening,Greeting
+Howdy,Greeting
+Hi there,Greeting
+Hello there,Greeting
+Hey,Greeting
+What's up,Greeting
+Greetings,Greeting
+Hi bot,Greeting
+Hello chatbot,Greeting
+Hey assistant,Greeting
+I need help,Greeting
+Can you help me,Greeting
+Help me please,Greeting
+Start,Greeting
+I have a question,Greeting
+Hi I'm new here,Greeting
+Hello I want to know something,Greeting
+Good day,Greeting
+Hi good morning,Greeting
+Hey I need assistance,Greeting
+Hello can you assist me,Greeting
+Hi I'm looking for information,Greeting
+Hey I want to ask something,Greeting
+Hello I'm a new student,Greeting
+Hi I just joined,Greeting
+Hey can you guide me,Greeting
+Hello guide me,Greeting
+Hi help me out,Greeting
+Hey I'm confused,Greeting
+Hello I'm lost,Greeting
+Bye,Farewell
+Goodbye,Farewell
+See you later,Farewell
+Thanks bye,Farewell
+That's all thanks,Farewell
+I'm done,Farewell
+Exit,Farewell
+Quit,Farewell
+Take care,Farewell
+Catch you later,Farewell
+Thanks for your help bye,Farewell
+Alright goodbye,Farewell
+I'll talk to you later,Farewell
+Okay bye,Farewell
+Bye bye,Farewell
+Thank you goodbye,Farewell
+Have a good day,Farewell
+See ya,Farewell
+Later,Farewell
+I'm leaving now,Farewell
+Signing off,Farewell
+Talk to you soon,Farewell
+Thank you see you,Farewell
+Ok that's all,Farewell
+Nothing else thanks,Farewell
+I got what I needed bye,Farewell
+What courses do you offer,Course_Info
+Do you have a Data Science course,Course_Info
+Tell me about the Data Science program,Course_Info
+What is the duration of the Data Science course,Course_Info
+Is the Data Science course beginner friendly,Course_Info
+What topics are covered in Data Science course,Course_Info
+Can I get details about Data Science course,Course_Info
+Who can join the Data Science course,Course_Info
+Is there a certificate for Data Science course,Course_Info
+What are the prerequisites for Data Science,Course_Info
+How long is the Data Science program,Course_Info
+Is Data Science taught live or recorded,Course_Info
+What level is the Data Science course,Course_Info
+Does Data Science have assignments and projects,Course_Info
+Can I switch from Data Science to another course,Course_Info
+Is Data Science course worth it,Course_Info
+What will I learn in Data Science,Course_Info
+Does Data Science require any prior knowledge,Course_Info
+What is the syllabus of Data Science course,Course_Info
+Are there any internship opportunities after Data Science,Course_Info
+How many modules are in Data Science course,Course_Info
+Is Data Science course self-paced,Course_Info
+Can I get a demo of Data Science course,Course_Info
+What is the rating of Data Science course,Course_Info
+Is Data Science course accredited,Course_Info
+Do you have a Artificial Intelligence course,Course_Info
+Tell me about the Artificial Intelligence program,Course_Info
+What is the duration of the Artificial Intelligence course,Course_Info
+Is the Artificial Intelligence course beginner friendly,Course_Info
+What topics are covered in Artificial Intelligence course,Course_Info
+Can I get details about Artificial Intelligence course,Course_Info
+Who can join the Artificial Intelligence course,Course_Info
+Is there a certificate for Artificial Intelligence course,Course_Info
+What are the prerequisites for Artificial Intelligence,Course_Info
+How long is the Artificial Intelligence program,Course_Info
+Is Artificial Intelligence taught live or recorded,Course_Info
+What level is the Artificial Intelligence course,Course_Info
+Does Artificial Intelligence have assignments and projects,Course_Info
+Can I switch from Artificial Intelligence to another course,Course_Info
+Is Artificial Intelligence course worth it,Course_Info
+What will I learn in Artificial Intelligence,Course_Info
+Does Artificial Intelligence require any prior knowledge,Course_Info
+What is the syllabus of Artificial Intelligence course,Course_Info
+Are there any internship opportunities after Artificial Intelligence,Course_Info
+How many modules are in Artificial Intelligence course,Course_Info
+Is Artificial Intelligence course self-paced,Course_Info
+Can I get a demo of Artificial Intelligence course,Course_Info
+What is the rating of Artificial Intelligence course,Course_Info
+Is Artificial Intelligence course accredited,Course_Info
+Do you have a Machine Learning course,Course_Info
+Tell me about the Machine Learning program,Course_Info
+What is the duration of the Machine Learning course,Course_Info
+Is the Machine Learning course beginner friendly,Course_Info
+What topics are covered in Machine Learning course,Course_Info
+Can I get details about Machine Learning course,Course_Info
+Who can join the Machine Learning course,Course_Info
+Is there a certificate for Machine Learning course,Course_Info
+What are the prerequisites for Machine Learning,Course_Info
+How long is the Machine Learning program,Course_Info
+Is Machine Learning taught live or recorded,Course_Info
+What level is the Machine Learning course,Course_Info
+Does Machine Learning have assignments and projects,Course_Info
+Can I switch from Machine Learning to another course,Course_Info
+Is Machine Learning course worth it,Course_Info
+What will I learn in Machine Learning,Course_Info
+Does Machine Learning require any prior knowledge,Course_Info
+What is the syllabus of Machine Learning course,Course_Info
+Are there any internship opportunities after Machine Learning,Course_Info
+How many modules are in Machine Learning course,Course_Info
+Is Machine Learning course self-paced,Course_Info
+Can I get a demo of Machine Learning course,Course_Info
+What is the rating of Machine Learning course,Course_Info
+Is Machine Learning course accredited,Course_Info
+Do you have a Business Analytics course,Course_Info
+Tell me about the Business Analytics program,Course_Info
+What is the duration of the Business Analytics course,Course_Info
+Is the Business Analytics course beginner friendly,Course_Info
+What topics are covered in Business Analytics course,Course_Info
+Can I get details about Business Analytics course,Course_Info
+Who can join the Business Analytics course,Course_Info
+Is there a certificate for Business Analytics course,Course_Info
+What are the prerequisites for Business Analytics,Course_Info
+How long is the Business Analytics program,Course_Info
+Is Business Analytics taught live or recorded,Course_Info
+What level is the Business Analytics course,Course_Info
+Does Business Analytics have assignments and projects,Course_Info
+Can I switch from Business Analytics to another course,Course_Info
+Is Business Analytics course worth it,Course_Info
+What will I learn in Business Analytics,Course_Info
+Does Business Analytics require any prior knowledge,Course_Info
+What is the syllabus of Business Analytics course,Course_Info
+Are there any internship opportunities after Business Analytics,Course_Info
+How many modules are in Business Analytics course,Course_Info
+Is Business Analytics course self-paced,Course_Info
+Can I get a demo of Business Analytics course,Course_Info
+What is the rating of Business Analytics course,Course_Info
+Is Business Analytics course accredited,Course_Info
+Do you have a Digital Marketing course,Course_Info
+Tell me about the Digital Marketing program,Course_Info
+What is the duration of the Digital Marketing course,Course_Info
+Is the Digital Marketing course beginner friendly,Course_Info
+What topics are covered in Digital Marketing course,Course_Info
+Can I get details about Digital Marketing course,Course_Info
+Who can join the Digital Marketing course,Course_Info
+Is there a certificate for Digital Marketing course,Course_Info
+What are the prerequisites for Digital Marketing,Course_Info
+How long is the Digital Marketing program,Course_Info
+Is Digital Marketing taught live or recorded,Course_Info
+What level is the Digital Marketing course,Course_Info
+Does Digital Marketing have assignments and projects,Course_Info
+Can I switch from Digital Marketing to another course,Course_Info
+Is Digital Marketing course worth it,Course_Info
+What will I learn in Digital Marketing,Course_Info
+Does Digital Marketing require any prior knowledge,Course_Info
+What is the syllabus of Digital Marketing course,Course_Info
+Are there any internship opportunities after Digital Marketing,Course_Info
+How many modules are in Digital Marketing course,Course_Info
+Is Digital Marketing course self-paced,Course_Info
+Can I get a demo of Digital Marketing course,Course_Info
+What is the rating of Digital Marketing course,Course_Info
+Is Digital Marketing course accredited,Course_Info
+Do you have a Python Programming course,Course_Info
+Tell me about the Python Programming program,Course_Info
+What is the duration of the Python Programming course,Course_Info
+Is the Python Programming course beginner friendly,Course_Info
+What topics are covered in Python Programming course,Course_Info
+Can I get details about Python Programming course,Course_Info
+Who can join the Python Programming course,Course_Info
+Is there a certificate for Python Programming course,Course_Info
+What are the prerequisites for Python Programming,Course_Info
+How long is the Python Programming program,Course_Info
+Is Python Programming taught live or recorded,Course_Info
+What level is the Python Programming course,Course_Info
+Does Python Programming have assignments and projects,Course_Info
+Can I switch from Python Programming to another course,Course_Info
+Is Python Programming course worth it,Course_Info
+What will I learn in Python Programming,Course_Info
+Does Python Programming require any prior knowledge,Course_Info
+What is the syllabus of Python Programming course,Course_Info
+Are there any internship opportunities after Python Programming,Course_Info
+How many modules are in Python Programming course,Course_Info
+Is Python Programming course self-paced,Course_Info
+Can I get a demo of Python Programming course,Course_Info
+What is the rating of Python Programming course,Course_Info
+Is Python Programming course accredited,Course_Info
+Do you have a Cloud Computing course,Course_Info
+Tell me about the Cloud Computing program,Course_Info
+What is the duration of the Cloud Computing course,Course_Info
+Is the Cloud Computing course beginner friendly,Course_Info
+What topics are covered in Cloud Computing course,Course_Info
+Can I get details about Cloud Computing course,Course_Info
+Who can join the Cloud Computing course,Course_Info
+Is there a certificate for Cloud Computing course,Course_Info
+What are the prerequisites for Cloud Computing,Course_Info
+How long is the Cloud Computing program,Course_Info
+Is Cloud Computing taught live or recorded,Course_Info
+What level is the Cloud Computing course,Course_Info
+Does Cloud Computing have assignments and projects,Course_Info
+Can I switch from Cloud Computing to another course,Course_Info
+Is Cloud Computing course worth it,Course_Info
+What will I learn in Cloud Computing,Course_Info
+Does Cloud Computing require any prior knowledge,Course_Info
+What is the syllabus of Cloud Computing course,Course_Info
+Are there any internship opportunities after Cloud Computing,Course_Info
+How many modules are in Cloud Computing course,Course_Info
+Is Cloud Computing course self-paced,Course_Info
+Can I get a demo of Cloud Computing course,Course_Info
+What is the rating of Cloud Computing course,Course_Info
+Is Cloud Computing course accredited,Course_Info
+Do you have a Cyber Security course,Course_Info
+Tell me about the Cyber Security program,Course_Info
+What is the duration of the Cyber Security course,Course_Info
+Is the Cyber Security course beginner friendly,Course_Info
+What topics are covered in Cyber Security course,Course_Info
+Can I get details about Cyber Security course,Course_Info
+Who can join the Cyber Security course,Course_Info
+Is there a certificate for Cyber Security course,Course_Info
+What are the prerequisites for Cyber Security,Course_Info
+How long is the Cyber Security program,Course_Info
+Is Cyber Security taught live or recorded,Course_Info
+What level is the Cyber Security course,Course_Info
+Does Cyber Security have assignments and projects,Course_Info
+Can I switch from Cyber Security to another course,Course_Info
+Is Cyber Security course worth it,Course_Info
+What will I learn in Cyber Security,Course_Info
+Does Cyber Security require any prior knowledge,Course_Info
+What is the syllabus of Cyber Security course,Course_Info
+Are there any internship opportunities after Cyber Security,Course_Info
+How many modules are in Cyber Security course,Course_Info
+Is Cyber Security course self-paced,Course_Info
+Can I get a demo of Cyber Security course,Course_Info
+What is the rating of Cyber Security course,Course_Info
+Is Cyber Security course accredited,Course_Info
+Do you have a Finance Management course,Course_Info
+Tell me about the Finance Management program,Course_Info
+What is the duration of the Finance Management course,Course_Info
+Is the Finance Management course beginner friendly,Course_Info
+What topics are covered in Finance Management course,Course_Info
+Can I get details about Finance Management course,Course_Info
+Who can join the Finance Management course,Course_Info
+Is there a certificate for Finance Management course,Course_Info
+What are the prerequisites for Finance Management,Course_Info
+How long is the Finance Management program,Course_Info
+Is Finance Management taught live or recorded,Course_Info
+What level is the Finance Management course,Course_Info
+Does Finance Management have assignments and projects,Course_Info
+Can I switch from Finance Management to another course,Course_Info
+Is Finance Management course worth it,Course_Info
+What will I learn in Finance Management,Course_Info
+Does Finance Management require any prior knowledge,Course_Info
+What is the syllabus of Finance Management course,Course_Info
+Are there any internship opportunities after Finance Management,Course_Info
+How many modules are in Finance Management course,Course_Info
+Is Finance Management course self-paced,Course_Info
+Can I get a demo of Finance Management course,Course_Info
+What is the rating of Finance Management course,Course_Info
+Is Finance Management course accredited,Course_Info
+Do you have a Project Management course,Course_Info
+Tell me about the Project Management program,Course_Info
+What is the duration of the Project Management course,Course_Info
+Is the Project Management course beginner friendly,Course_Info
+What topics are covered in Project Management course,Course_Info
+Can I get details about Project Management course,Course_Info
+Who can join the Project Management course,Course_Info
+Is there a certificate for Project Management course,Course_Info
+What are the prerequisites for Project Management,Course_Info
+How long is the Project Management program,Course_Info
+Is Project Management taught live or recorded,Course_Info
+What level is the Project Management course,Course_Info
+Does Project Management have assignments and projects,Course_Info
+Can I switch from Project Management to another course,Course_Info
+Is Project Management course worth it,Course_Info
+What will I learn in Project Management,Course_Info
+Does Project Management require any prior knowledge,Course_Info
+What is the syllabus of Project Management course,Course_Info
+Are there any internship opportunities after Project Management,Course_Info
+How many modules are in Project Management course,Course_Info
+Is Project Management course self-paced,Course_Info
+Can I get a demo of Project Management course,Course_Info
+What is the rating of Project Management course,Course_Info
+Is Project Management course accredited,Course_Info
+Do you have a Deep Learning course,Course_Info
+Tell me about the Deep Learning program,Course_Info
+What is the duration of the Deep Learning course,Course_Info
+Is the Deep Learning course beginner friendly,Course_Info
+What topics are covered in Deep Learning course,Course_Info
+Can I get details about Deep Learning course,Course_Info
+Who can join the Deep Learning course,Course_Info
+Is there a certificate for Deep Learning course,Course_Info
+What are the prerequisites for Deep Learning,Course_Info
+How long is the Deep Learning program,Course_Info
+Is Deep Learning taught live or recorded,Course_Info
+What level is the Deep Learning course,Course_Info
+Does Deep Learning have assignments and projects,Course_Info
+Can I switch from Deep Learning to another course,Course_Info
+Is Deep Learning course worth it,Course_Info
+What will I learn in Deep Learning,Course_Info
+Does Deep Learning require any prior knowledge,Course_Info
+What is the syllabus of Deep Learning course,Course_Info
+Are there any internship opportunities after Deep Learning,Course_Info
+How many modules are in Deep Learning course,Course_Info
+Is Deep Learning course self-paced,Course_Info
+Can I get a demo of Deep Learning course,Course_Info
+What is the rating of Deep Learning course,Course_Info
+Is Deep Learning course accredited,Course_Info
+Do you have a NLP course,Course_Info
+Tell me about the NLP program,Course_Info
+What is the duration of the NLP course,Course_Info
+Is the NLP course beginner friendly,Course_Info
+What topics are covered in NLP course,Course_Info
+Can I get details about NLP course,Course_Info
+Who can join the NLP course,Course_Info
+Is there a certificate for NLP course,Course_Info
+What are the prerequisites for NLP,Course_Info
+How long is the NLP program,Course_Info
+Is NLP taught live or recorded,Course_Info
+What level is the NLP course,Course_Info
+Does NLP have assignments and projects,Course_Info
+Can I switch from NLP to another course,Course_Info
+Is NLP course worth it,Course_Info
+What will I learn in NLP,Course_Info
+Does NLP require any prior knowledge,Course_Info
+What is the syllabus of NLP course,Course_Info
+Are there any internship opportunities after NLP,Course_Info
+How many modules are in NLP course,Course_Info
+Is NLP course self-paced,Course_Info
+Can I get a demo of NLP course,Course_Info
+What is the rating of NLP course,Course_Info
+Is NLP course accredited,Course_Info
+Do you have a Data Engineering course,Course_Info
+Tell me about the Data Engineering program,Course_Info
+What is the duration of the Data Engineering course,Course_Info
+Is the Data Engineering course beginner friendly,Course_Info
+What topics are covered in Data Engineering course,Course_Info
+Can I get details about Data Engineering course,Course_Info
+Who can join the Data Engineering course,Course_Info
+Is there a certificate for Data Engineering course,Course_Info
+What are the prerequisites for Data Engineering,Course_Info
+How long is the Data Engineering program,Course_Info
+Is Data Engineering taught live or recorded,Course_Info
+What level is the Data Engineering course,Course_Info
+Does Data Engineering have assignments and projects,Course_Info
+Can I switch from Data Engineering to another course,Course_Info
+Is Data Engineering course worth it,Course_Info
+What will I learn in Data Engineering,Course_Info
+Does Data Engineering require any prior knowledge,Course_Info
+What is the syllabus of Data Engineering course,Course_Info
+Are there any internship opportunities after Data Engineering,Course_Info
+How many modules are in Data Engineering course,Course_Info
+Is Data Engineering course self-paced,Course_Info
+Can I get a demo of Data Engineering course,Course_Info
+What is the rating of Data Engineering course,Course_Info
+Is Data Engineering course accredited,Course_Info
+Do you have a Web Development course,Course_Info
+Tell me about the Web Development program,Course_Info
+What is the duration of the Web Development course,Course_Info
+Is the Web Development course beginner friendly,Course_Info
+What topics are covered in Web Development course,Course_Info
+Can I get details about Web Development course,Course_Info
+Who can join the Web Development course,Course_Info
+Is there a certificate for Web Development course,Course_Info
+What are the prerequisites for Web Development,Course_Info
+How long is the Web Development program,Course_Info
+Is Web Development taught live or recorded,Course_Info
+What level is the Web Development course,Course_Info
+Does Web Development have assignments and projects,Course_Info
+Can I switch from Web Development to another course,Course_Info
+Is Web Development course worth it,Course_Info
+What will I learn in Web Development,Course_Info
+Does Web Development require any prior knowledge,Course_Info
+What is the syllabus of Web Development course,Course_Info
+Are there any internship opportunities after Web Development,Course_Info
+How many modules are in Web Development course,Course_Info
+Is Web Development course self-paced,Course_Info
+Can I get a demo of Web Development course,Course_Info
+What is the rating of Web Development course,Course_Info
+Is Web Development course accredited,Course_Info
+Do you have a Mobile App Development course,Course_Info
+Tell me about the Mobile App Development program,Course_Info
+What is the duration of the Mobile App Development course,Course_Info
+Is the Mobile App Development course beginner friendly,Course_Info
+What topics are covered in Mobile App Development course,Course_Info
+Can I get details about Mobile App Development course,Course_Info
+Who can join the Mobile App Development course,Course_Info
+Is there a certificate for Mobile App Development course,Course_Info
+What are the prerequisites for Mobile App Development,Course_Info
+How long is the Mobile App Development program,Course_Info
+Is Mobile App Development taught live or recorded,Course_Info
+What level is the Mobile App Development course,Course_Info
+Does Mobile App Development have assignments and projects,Course_Info
+Can I switch from Mobile App Development to another course,Course_Info
+Is Mobile App Development course worth it,Course_Info
+What will I learn in Mobile App Development,Course_Info
+Does Mobile App Development require any prior knowledge,Course_Info
+What is the syllabus of Mobile App Development course,Course_Info
+Are there any internship opportunities after Mobile App Development,Course_Info
+How many modules are in Mobile App Development course,Course_Info
+Is Mobile App Development course self-paced,Course_Info
+Can I get a demo of Mobile App Development course,Course_Info
+What is the rating of Mobile App Development course,Course_Info
+Is Mobile App Development course accredited,Course_Info
+Do you have a DevOps course,Course_Info
+Tell me about the DevOps program,Course_Info
+What is the duration of the DevOps course,Course_Info
+Is the DevOps course beginner friendly,Course_Info
+What topics are covered in DevOps course,Course_Info
+Can I get details about DevOps course,Course_Info
+Who can join the DevOps course,Course_Info
+Is there a certificate for DevOps course,Course_Info
+What are the prerequisites for DevOps,Course_Info
+How long is the DevOps program,Course_Info
+Is DevOps taught live or recorded,Course_Info
+What level is the DevOps course,Course_Info
+Does DevOps have assignments and projects,Course_Info
+Can I switch from DevOps to another course,Course_Info
+Is DevOps course worth it,Course_Info
+What will I learn in DevOps,Course_Info
+Does DevOps require any prior knowledge,Course_Info
+What is the syllabus of DevOps course,Course_Info
+Are there any internship opportunities after DevOps,Course_Info
+How many modules are in DevOps course,Course_Info
+Is DevOps course self-paced,Course_Info
+Can I get a demo of DevOps course,Course_Info
+What is the rating of DevOps course,Course_Info
+Is DevOps course accredited,Course_Info
+Do you have a UI/UX Design course,Course_Info
+Tell me about the UI/UX Design program,Course_Info
+What is the duration of the UI/UX Design course,Course_Info
+Is the UI/UX Design course beginner friendly,Course_Info
+What topics are covered in UI/UX Design course,Course_Info
+Can I get details about UI/UX Design course,Course_Info
+Who can join the UI/UX Design course,Course_Info
+Is there a certificate for UI/UX Design course,Course_Info
+What are the prerequisites for UI/UX Design,Course_Info
+How long is the UI/UX Design program,Course_Info
+Is UI/UX Design taught live or recorded,Course_Info
+What level is the UI/UX Design course,Course_Info
+Does UI/UX Design have assignments and projects,Course_Info
+Can I switch from UI/UX Design to another course,Course_Info
+Is UI/UX Design course worth it,Course_Info
+What will I learn in UI/UX Design,Course_Info
+Does UI/UX Design require any prior knowledge,Course_Info
+What is the syllabus of UI/UX Design course,Course_Info
+Are there any internship opportunities after UI/UX Design,Course_Info
+How many modules are in UI/UX Design course,Course_Info
+Is UI/UX Design course self-paced,Course_Info
+Can I get a demo of UI/UX Design course,Course_Info
+What is the rating of UI/UX Design course,Course_Info
+Is UI/UX Design course accredited,Course_Info
+Do you have a Blockchain course,Course_Info
+Tell me about the Blockchain program,Course_Info
+What is the duration of the Blockchain course,Course_Info
+Is the Blockchain course beginner friendly,Course_Info
+What topics are covered in Blockchain course,Course_Info
+Can I get details about Blockchain course,Course_Info
+Who can join the Blockchain course,Course_Info
+Is there a certificate for Blockchain course,Course_Info
+What are the prerequisites for Blockchain,Course_Info
+How long is the Blockchain program,Course_Info
+Is Blockchain taught live or recorded,Course_Info
+What level is the Blockchain course,Course_Info
+Does Blockchain have assignments and projects,Course_Info
+Can I switch from Blockchain to another course,Course_Info
+Is Blockchain course worth it,Course_Info
+What will I learn in Blockchain,Course_Info
+Does Blockchain require any prior knowledge,Course_Info
+What is the syllabus of Blockchain course,Course_Info
+Are there any internship opportunities after Blockchain,Course_Info
+How many modules are in Blockchain course,Course_Info
+Is Blockchain course self-paced,Course_Info
+Can I get a demo of Blockchain course,Course_Info
+What is the rating of Blockchain course,Course_Info
+Is Blockchain course accredited,Course_Info
+Do you have a Excel and Power BI course,Course_Info
+Tell me about the Excel and Power BI program,Course_Info
+What is the duration of the Excel and Power BI course,Course_Info
+Is the Excel and Power BI course beginner friendly,Course_Info
+What topics are covered in Excel and Power BI course,Course_Info
+Can I get details about Excel and Power BI course,Course_Info
+Who can join the Excel and Power BI course,Course_Info
+Is there a certificate for Excel and Power BI course,Course_Info
+What are the prerequisites for Excel and Power BI,Course_Info
+How long is the Excel and Power BI program,Course_Info
+Is Excel and Power BI taught live or recorded,Course_Info
+What level is the Excel and Power BI course,Course_Info
+Does Excel and Power BI have assignments and projects,Course_Info
+Can I switch from Excel and Power BI to another course,Course_Info
+Is Excel and Power BI course worth it,Course_Info
+What will I learn in Excel and Power BI,Course_Info
+Does Excel and Power BI require any prior knowledge,Course_Info
+What is the syllabus of Excel and Power BI course,Course_Info
+Are there any internship opportunities after Excel and Power BI,Course_Info
+How many modules are in Excel and Power BI course,Course_Info
+Is Excel and Power BI course self-paced,Course_Info
+Can I get a demo of Excel and Power BI course,Course_Info
+What is the rating of Excel and Power BI course,Course_Info
+Is Excel and Power BI course accredited,Course_Info
+Do you have a SQL and Databases course,Course_Info
+Tell me about the SQL and Databases program,Course_Info
+What is the duration of the SQL and Databases course,Course_Info
+Is the SQL and Databases course beginner friendly,Course_Info
+What topics are covered in SQL and Databases course,Course_Info
+Can I get details about SQL and Databases course,Course_Info
+Who can join the SQL and Databases course,Course_Info
+Is there a certificate for SQL and Databases course,Course_Info
+What are the prerequisites for SQL and Databases,Course_Info
+How long is the SQL and Databases program,Course_Info
+Is SQL and Databases taught live or recorded,Course_Info
+What level is the SQL and Databases course,Course_Info
+Does SQL and Databases have assignments and projects,Course_Info
+Can I switch from SQL and Databases to another course,Course_Info
+Is SQL and Databases course worth it,Course_Info
+What will I learn in SQL and Databases,Course_Info
+Does SQL and Databases require any prior knowledge,Course_Info
+What is the syllabus of SQL and Databases course,Course_Info
+Are there any internship opportunities after SQL and Databases,Course_Info
+How many modules are in SQL and Databases course,Course_Info
+Is SQL and Databases course self-paced,Course_Info
+Can I get a demo of SQL and Databases course,Course_Info
+What is the rating of SQL and Databases course,Course_Info
+Is SQL and Databases course accredited,Course_Info
+What is the most popular course,Course_Info
+Which course is best for beginners,Course_Info
+Do you offer free courses,Course_Info
+Are there any short-term courses,Course_Info
+Do you have weekend courses,Course_Info
+Can I take multiple courses at once,Course_Info
+What are the new courses available,Course_Info
+Do you offer diploma programs,Course_Info
+Which course has the highest placement rate,Course_Info
+What courses are available for working professionals,Course_Info
+Do you offer any MBA level courses,Course_Info
+Are your courses industry recognized,Course_Info
+Can I audit a course before enrolling,Course_Info
+Do you provide study material,Course_Info
+Are courses available in Hindi,Course_Info
+Do you offer bilingual courses,Course_Info
+How can I enroll in a course,Enrollment
+What is the enrollment process,Enrollment
+How do I register for classes,Enrollment
+Can you help me sign up,Enrollment
+Where do I submit my application,Enrollment
+When does enrollment open,Enrollment
+Can I enroll today,Enrollment
+How do I complete registration,Enrollment
+What documents are required for enrollment,Enrollment
+How long does enrollment take,Enrollment
+Is there an age limit for enrollment,Enrollment
+Can I enroll without a degree,Enrollment
+What is the last date to enroll,Enrollment
+How do I know my enrollment is confirmed,Enrollment
+Can I enroll mid-semester,Enrollment
+How do I fill the enrollment form,Enrollment
+Is online enrollment available,Enrollment
+I want to register for a course,Enrollment
+What is the process to get admission,Enrollment
+How do I apply for a course,Enrollment
+Is there a waiting list for enrollment,Enrollment
+Can I change my course after enrolling,Enrollment
+Can I defer my enrollment,Enrollment
+What happens after I submit enrollment form,Enrollment
+Is there an entrance test for enrollment,Enrollment
+How many seats are available,Enrollment
+Can a working professional enroll,Enrollment
+How to enroll as a corporate group,Enrollment
+Do I need to submit academic transcripts,Enrollment
+Can I enroll my team members,Enrollment
+Is group enrollment available,Enrollment
+Can I refer someone to enroll,Enrollment
+Is there a referral discount on enrollment,Enrollment
+How to complete KYC for enrollment,Enrollment
+What is the minimum qualification for enrollment,Enrollment
+Do I need a laptop to enroll,Enrollment
+Can I access courses from mobile after enrollment,Enrollment
+What is the onboarding process after enrollment,Enrollment
+How long does verification take after enrollment,Enrollment
+I enrolled but haven't received confirmation email,Enrollment
+What payment methods are accepted,Payment
+Can I pay using UPI,Payment
+Do you accept credit cards,Payment
+Is EMI available,Payment
+How do I download my invoice,Payment
+Can I get a refund,Payment
+My payment failed what should I do,Payment
+Why was my card declined,Payment
+How can I check payment status,Payment
+Are there any discounts available,Payment
+Is there a scholarship available,Payment
+Do you offer corporate billing,Payment
+Can I pay in installments,Payment
+What is the refund policy,Payment
+How many days does refund take,Payment
+My refund hasn't come yet,Payment
+Can I pay using net banking,Payment
+Do you accept PayPal,Payment
+Is there GST on the course fee,Payment
+Can I get a GST invoice,Payment
+What is the course fee for data science,Payment
+Is there any hidden charges,Payment
+Can I pay the fee in USD,Payment
+Do you have a money back guarantee,Payment
+Can I use coupon code at checkout,Payment
+Where do I apply discount code,Payment
+I was charged twice for one course,Payment
+My payment was deducted but enrollment failed,Payment
+I want to cancel my subscription,Payment
+How to upgrade my plan,Payment
+What is the difference between monthly and annual plan,Payment
+Do you have a free trial,Payment
+Can I pause my subscription,Payment
+Is the course fee tax deductible,Payment
+Do you offer loan for course fee,Payment
+Can I pay offline via DD or cheque,Payment
+What happens if I miss an EMI,Payment
+How to update payment method,Payment
+My UPI payment is pending,Payment
+Transaction ID is not reflecting in my account,Payment
+I cannot login to my account,Technical_Support
+My password reset link is not working,Technical_Support
+The video is not playing,Technical_Support
+The website is loading slowly,Technical_Support
+I am facing an error during login,Technical_Support
+My course page is blank,Technical_Support
+The app keeps crashing,Technical_Support
+I cannot access course materials,Technical_Support
+Audio is not working in lectures,Technical_Support
+How do I contact technical support,Technical_Support
+I forgot my password,Technical_Support
+How to reset my password,Technical_Support
+My account is locked,Technical_Support
+I am getting 404 error,Technical_Support
+The quiz is not submitting,Technical_Support
+My certificate is not downloading,Technical_Support
+Live class link is not working,Technical_Support
+Video quality is very poor,Technical_Support
+I cannot see the subtitles,Technical_Support
+My progress is not saving,Technical_Support
+The app is not installing,Technical_Support
+I am getting a black screen,Technical_Support
+How do I update the app,Technical_Support
+Course is not loading on mobile,Technical_Support
+I lost access to my account,Technical_Support
+How to change my email address,Technical_Support
+Two factor authentication is not working,Technical_Support
+I cannot upload my assignment,Technical_Support
+The discussion forum is not loading,Technical_Support
+I cannot see my grades,Technical_Support
+Browser compatibility issue,Technical_Support
+Which browser is recommended,Technical_Support
+How to enable camera for live class,Technical_Support
+Mic is not working in live class,Technical_Support
+I got logged out automatically,Technical_Support
+Session keeps expiring,Technical_Support
+I cannot download the course PDF,Technical_Support
+My bookmark is missing,Technical_Support
+Search is not working on the platform,Technical_Support
+I need to report a bug,Technical_Support
+How do I get my certificate,Certificate
+When will I receive my certificate,Certificate
+Is the certificate valid internationally,Certificate
+Is the certificate recognized by companies,Certificate
+Can I add certificate to LinkedIn,Certificate
+How to verify my certificate,Certificate
+Certificate has a spelling mistake in my name,Certificate
+I did not receive my certificate,Certificate
+Is there a digital certificate,Certificate
+Is there a physical certificate,Certificate
+How many courses do I need to complete for certificate,Certificate
+What is the passing score to get certificate,Certificate
+Can I retake exam for certificate,Certificate
+Certificate download is not working,Certificate
+Can I share my certificate,Certificate
+Is the certificate from Amity,Certificate
+Who signs the certificate,Certificate
+What is the validity of the certificate,Certificate
+Is there an expiry on certificate,Certificate
+Can I get a duplicate certificate,Certificate
+How to print my certificate,Certificate
+Certificate is not showing in my profile,Certificate
+Is NSDC certification included,Certificate
+Do you provide a letter of completion,Certificate
+Is this certificate equivalent to a degree,Certificate
+Do you provide placement assistance,Placement_Career
+What companies hire from your platform,Placement_Career
+Is there a placement guarantee,Placement_Career
+How do I access job opportunities,Placement_Career
+Do you help with resume building,Placement_Career
+Do you conduct mock interviews,Placement_Career
+What is the average salary after your courses,Placement_Career
+Can freshers get jobs after completing your course,Placement_Career
+How long does it take to get placed,Placement_Career
+Do you have alumni network,Placement_Career
+Is there a career counseling service,Placement_Career
+Can you help me switch careers,Placement_Career
+Do you have tie-ups with MNCs,Placement_Career
+What is the placement success rate,Placement_Career
+Do you have internship opportunities,Placement_Career
+Can you refer me to a company,Placement_Career
+Is there a dedicated placement team,Placement_Career
+How do I register for placement drive,Placement_Career
+Do you conduct hackathons or competitions,Placement_Career
+What is the highest package offered,Placement_Career
+Is LinkedIn profile help provided,Placement_Career
+Do you have a job portal,Placement_Career
+Can I get freelance project opportunities,Placement_Career
+Is entrepreneurship support provided,Placement_Career
+Do you have a mentorship program,Placement_Career
+"Hey, I need help",Greeting
+"Hi, can you assist me?",Greeting
+Hello! Are you there?,Greeting
+Hey! I have a question,Greeting
+That's all for now,Farewell
+Good night,Farewell
+I have no more questions,Farewell
+"Thank you, goodbye",Farewell
+That will be all,Farewell
+Will I get a certificate after completing the course?,Certificate
+Is the certificate recognized by companies?,Certificate
+How do I download my certificate?,Certificate
+When will I receive my certificate?,Certificate
+Is the certificate accredited?,Certificate
+Can I share my certificate on LinkedIn?,Certificate
+Is there a physical certificate?,Certificate
+What is the certificate validity?,Certificate
+Do I need to pass an exam to get the certificate?,Certificate
+Is my certificate internationally valid?,Certificate
+How long does it take to receive the certificate?,Certificate
+Can I get a duplicate certificate?,Certificate
+I want a refund,Refund
+How do I request a refund?,Refund
+What is the refund policy?,Refund
+Can I get my money back?,Refund
+"I paid but changed my mind, can I get a refund?",Refund
+Refund not received yet,Refund
+How many days does a refund take?,Refund
+Is refund available after course completion?,Refund
+"I was charged twice, I need a refund",Refund
+Refund process is taking too long,Refund
+Can I cancel my enrollment and get a refund?,Refund
+Who are the instructors?,Instructor
+Are instructors certified?,Instructor
+Can I contact my instructor?,Instructor
+How experienced are the teachers?,Instructor
+Is there live support from instructors?,Instructor
+Do instructors respond to queries?,Instructor
+Are the courses taught by industry experts?,Instructor
+Can I have 1-on-1 sessions with instructors?,Instructor
+How do I message my instructor?,Instructor
+Are instructors from top companies?,Instructor
+What is the class schedule?,Schedule
+Are classes live or recorded?,Schedule
+Can I study at my own pace?,Schedule
+What time are the live sessions?,Schedule
+How many hours per week do I need?,Schedule
+Can I access classes on weekends?,Schedule
+Is this a self-paced course?,Schedule
+How long will I have access to the course?,Schedule
+Are there any deadlines for assignments?,Schedule
+Can I watch lectures at night?,Schedule
+Will I miss out if I miss a live session?,Schedule
+How do I create an account?,Account
+How do I change my email address?,Account
+Can I have multiple accounts?,Account
+How do I delete my account?,Account
+I cannot log into my account,Account
+How do I update my profile?,Account
+How do I change my password?,Account
+How do I verify my email?,Account
+Can I use Google to sign in?,Account
+Are there any discounts?,Discount
+Do you have student discounts?,Discount
+Is there a promo code available?,Discount
+Can I get a group discount?,Discount
+Are there early bird offers?,Discount
+Do you have seasonal sales?,Discount
+Is there a referral discount?,Discount
+Can I get a coupon code?,Discount
+Are scholarships available?,Discount
+How do I apply a discount code?,Discount
